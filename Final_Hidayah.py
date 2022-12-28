@@ -1,4 +1,9 @@
 import math
+print('''NAMA  : NURUL HIDAYAH
+NIM   : D0221374
+KELAS : INFORMATIKA H
+________________________\n
+===== MENGHITUNG LUAS BANGUN DATAR & VOLUME BANGUN RUANG =====\n''')
 class Menghitung :
     def Segitiga(self):
         pass
@@ -144,7 +149,7 @@ while True :
     else :
             print('Pilihanmu Salah!!!')
 
-print("Program berhenti. Selamat tinggal.")
+print("Program selesai. bye!")
         
         
 
